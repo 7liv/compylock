@@ -28,7 +28,7 @@ Lastly, there may be some issues on older AMD cards / Nvidia cards as I don't ha
 
 - My game doesn't look exactly like yours, why is that?
 
-I most likely have extra VPKs not featured in #gameinfo , or you have conflicting files with the VPKs from that folder.
+I most likely have extra VPKs not featured in this repo, or you have conflicting files with the VPKs from that folder.
 
 - How do I play on stretched res?
 
