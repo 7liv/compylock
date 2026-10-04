@@ -42,6 +42,10 @@ You will need to change your resolution in video.txt;
 1350x1080 (1080p)
 1800x1440 (1440p)
 
+
+
 Bare in mind you may need to create a custom resolution in your monitor settings using CRU - (https://www.monitortests.com/forum/Thread-Custom-Resolution-Utility-CRU)
 
 then, download the stretch res fix VPK to fix the UI.
+
+For the VPKs in this repo, Healthbar vpk 1 should have higher prio (number in pak00_dir) should be higher than vpk 2.
